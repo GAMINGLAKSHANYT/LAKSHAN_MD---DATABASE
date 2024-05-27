@@ -1,7 +1,7 @@
 {
   "owners": {
     "owner": {
-      "id": "94762280384",
+      "id": "94765840703",
       "react": "👨🏻‍💻"
     },
     "co-owner": {
@@ -22,14 +22,14 @@
 
 
   "urls": {
-    "public-beta": "https://chat.whatsapp.com/Bnj9lNXgTjbFhooKIE63cm",
-    "community": "https://chat.whatsapp.com/LN7x1jLi65dJmM53ACxE9J", 
-    "channel": "https://whatsapp.com/channel/0029VaMduczBKfhwsLRoPx12",
-    "official-website": "https://www.prabath-md-official-web.com",
-    "github": "https://github.com/prabathLK/PRABATH-MD",
-    "owners": "Prabath Kumara & Sachintha",
-    "my-channel": "https://whatsapp.com/channel/0029VaRvXg9HVvTXXQJ71a0s",
-    "our-email": "prabathmdofficial@gmail.com"
+    "public-beta": ".",
+    "community": ".", 
+    "channel": ".",
+    "official-website": ".",
+    "github": "https://github.com/GAMINGLAKSHANYT/LAKSHAN-MD",
+    "owners": "Dumindu Lakshan & LAKSHAN",
+    "my-channel": ".",
+    "our-email": "lakshan2420362@gmail.com"
   },
   "verify": {
     "code": "1029384756",
